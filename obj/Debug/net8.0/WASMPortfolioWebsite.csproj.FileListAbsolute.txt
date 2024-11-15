@@ -1029,3 +1029,4 @@ C:\Users\vnass\Desktop\Projects\WASMPortfolioWebsite\WASMPortfolioWebsite\obj\De
 C:\Users\vnass\Desktop\Projects\WASMPortfolioWebsite\WASMPortfolioWebsite\obj\Debug\net8.0\refint\WASMPortfolioWebsite.dll
 C:\Users\vnass\Desktop\Projects\WASMPortfolioWebsite\WASMPortfolioWebsite\obj\Debug\net8.0\WASMPortfolioWebsite.pdb
 C:\Users\vnass\Desktop\Projects\WASMPortfolioWebsite\WASMPortfolioWebsite\obj\Debug\net8.0\ref\WASMPortfolioWebsite.dll
+C:\Users\vnass\Desktop\Projects\WASMPortfolioWebsite\WASMPortfolioWebsite\obj\Debug\net8.0\WASMPortfolioWebsite.sourcelink.json

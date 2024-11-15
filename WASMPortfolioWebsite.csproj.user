@@ -2,6 +2,6 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>https</ActiveDebugProfile>
-    <NameOfLastUsedPublishProfile>Vnassar</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\vnass\Desktop\Projects\WASMPortfolioWebsite\WASMPortfolioWebsite\.github\workflows\azure-static-web-apps-gentle-river-098d2da0f.yml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
