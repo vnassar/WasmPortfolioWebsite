@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\vnass\\Desktop\\Projects\\WASMPortfolioWebsite\\WASMPortfolioWebsite\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C810BF0B-964D-42C8-ADEE-9AEDA4C8618C}|WASMPortfolioWebsite.csproj|c:\\users\\vnass\\desktop\\projects\\wasmportfoliowebsite\\wasmportfoliowebsite\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C810BF0B-964D-42C8-ADEE-9AEDA4C8618C}|WASMPortfolioWebsite.csproj|solutionrelative:pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C810BF0B-964D-42C8-ADEE-9AEDA4C8618C}|WASMPortfolioWebsite.csproj|c:\\users\\vnass\\desktop\\projects\\wasmportfoliowebsite\\wasmportfoliowebsite\\wasmportfoliowebsite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C810BF0B-964D-42C8-ADEE-9AEDA4C8618C}|WASMPortfolioWebsite.csproj|solutionrelative:wasmportfoliowebsite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C810BF0B-964D-42C8-ADEE-9AEDA4C8618C}|WASMPortfolioWebsite.csproj|c:\\users\\vnass\\desktop\\projects\\wasmportfoliowebsite\\wasmportfoliowebsite\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{C810BF0B-964D-42C8-ADEE-9AEDA4C8618C}|WASMPortfolioWebsite.csproj|solutionrelative:wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C810BF0B-964D-42C8-ADEE-9AEDA4C8618C}|WASMPortfolioWebsite.csproj|c:\\users\\vnass\\desktop\\projects\\wasmportfoliowebsite\\wasmportfoliowebsite\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C810BF0B-964D-42C8-ADEE-9AEDA4C8618C}|WASMPortfolioWebsite.csproj|solutionrelative:layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C810BF0B-964D-42C8-ADEE-9AEDA4C8618C}|WASMPortfolioWebsite.csproj|c:\\users\\vnass\\desktop\\projects\\wasmportfoliowebsite\\wasmportfoliowebsite\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C810BF0B-964D-42C8-ADEE-9AEDA4C8618C}|WASMPortfolioWebsite.csproj|solutionrelative:pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C810BF0B-964D-42C8-ADEE-9AEDA4C8618C}|WASMPortfolioWebsite.csproj|c:\\users\\vnass\\desktop\\projects\\wasmportfoliowebsite\\wasmportfoliowebsite\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -34,11 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 986,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "WASMPortfolioWebsite",
+              "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\WASMPortfolioWebsite\\WASMPortfolioWebsite\\WASMPortfolioWebsite.csproj",
+              "RelativeDocumentMoniker": "WASMPortfolioWebsite.csproj",
+              "ToolTip": "C:\\Users\\vnass\\Desktop\\Projects\\WASMPortfolioWebsite\\WASMPortfolioWebsite\\WASMPortfolioWebsite.csproj",
+              "RelativeToolTip": "WASMPortfolioWebsite.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-15T01:43:18.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "app.css",
               "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\WASMPortfolioWebsite\\WASMPortfolioWebsite\\wwwroot\\css\\app.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\app.css",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\WASMPortfolioWebsite\\WASMPortfolioWebsite\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Layout\\NavMenu.razor",
@@ -59,12 +76,11 @@
               "RelativeToolTip": "Layout\\NavMenu.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-14T21:19:22.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T21:19:22.255Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\WASMPortfolioWebsite\\WASMPortfolioWebsite\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "Layout\\MainLayout.razor",
@@ -72,12 +88,11 @@
               "RelativeToolTip": "Layout\\MainLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-14T21:19:00.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T21:19:00.341Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\WASMPortfolioWebsite\\WASMPortfolioWebsite\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Pages\\Home.razor",
@@ -90,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\WASMPortfolioWebsite\\WASMPortfolioWebsite\\App.razor",
               "RelativeDocumentMoniker": "App.razor",
@@ -98,12 +113,11 @@
               "RelativeToolTip": "App.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-14T21:16:31.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T21:16:31.192Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\WASMPortfolioWebsite\\WASMPortfolioWebsite\\_Imports.razor",
               "RelativeDocumentMoniker": "_Imports.razor",
@@ -111,8 +125,7 @@
               "RelativeToolTip": "_Imports.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-14T21:16:26.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T21:16:26.34Z"
             }
           ]
         },

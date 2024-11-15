@@ -1,0 +1,125 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\WASMPortfolioWebsite\\WASMPortfolioWebsite\\bin\\Release\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\WASMPortfolioWebsite\\WASMPortfolioWebsite\\obj\\Release\\net8.0\\compressed\\4rb7d3g9hz.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\WASMPortfolioWebsite\\WASMPortfolioWebsite\\obj\\Release\\net8.0\\scopedcss\\bundle\\WASMPortfolioWebsite.styles.css",
+      "PackagePath": "staticwebassets\\WASMPortfolioWebsite.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\WASMPortfolioWebsite\\WASMPortfolioWebsite\\wwwroot\\assets\\BikeSelfie.png",
+      "PackagePath": "staticwebassets\\assets\\BikeSelfie.png"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\WASMPortfolioWebsite\\WASMPortfolioWebsite\\wwwroot\\assets\\about-pic.png",
+      "PackagePath": "staticwebassets\\assets\\about-pic.png"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\WASMPortfolioWebsite\\WASMPortfolioWebsite\\wwwroot\\assets\\arrow.png",
+      "PackagePath": "staticwebassets\\assets\\arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\WASMPortfolioWebsite\\WASMPortfolioWebsite\\wwwroot\\assets\\bikeselfie2.jpg",
+      "PackagePath": "staticwebassets\\assets\\bikeselfie2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\WASMPortfolioWebsite\\WASMPortfolioWebsite\\wwwroot\\assets\\checkmark.png",
+      "PackagePath": "staticwebassets\\assets\\checkmark.png"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\WASMPortfolioWebsite\\WASMPortfolioWebsite\\wwwroot\\assets\\education.png",
+      "PackagePath": "staticwebassets\\assets\\education.png"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\WASMPortfolioWebsite\\WASMPortfolioWebsite\\wwwroot\\assets\\email.png",
+      "PackagePath": "staticwebassets\\assets\\email.png"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\WASMPortfolioWebsite\\WASMPortfolioWebsite\\wwwroot\\assets\\experience.png",
+      "PackagePath": "staticwebassets\\assets\\experience.png"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\WASMPortfolioWebsite\\WASMPortfolioWebsite\\wwwroot\\assets\\github.png",
+      "PackagePath": "staticwebassets\\assets\\github.png"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\WASMPortfolioWebsite\\WASMPortfolioWebsite\\wwwroot\\assets\\linkedin.png",
+      "PackagePath": "staticwebassets\\assets\\linkedin.png"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\WASMPortfolioWebsite\\WASMPortfolioWebsite\\wwwroot\\assets\\profile-pic-2.png",
+      "PackagePath": "staticwebassets\\assets\\profile-pic-2.png"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\WASMPortfolioWebsite\\WASMPortfolioWebsite\\wwwroot\\assets\\profile-pic.png",
+      "PackagePath": "staticwebassets\\assets\\profile-pic.png"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\WASMPortfolioWebsite\\WASMPortfolioWebsite\\wwwroot\\assets\\project-1.png",
+      "PackagePath": "staticwebassets\\assets\\project-1.png"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\WASMPortfolioWebsite\\WASMPortfolioWebsite\\wwwroot\\assets\\project-2.png",
+      "PackagePath": "staticwebassets\\assets\\project-2.png"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\WASMPortfolioWebsite\\WASMPortfolioWebsite\\wwwroot\\assets\\project-3.png",
+      "PackagePath": "staticwebassets\\assets\\project-3.png"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\WASMPortfolioWebsite\\WASMPortfolioWebsite\\wwwroot\\assets\\resume-example.pdf",
+      "PackagePath": "staticwebassets\\assets\\resume-example.pdf"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\WASMPortfolioWebsite\\WASMPortfolioWebsite\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\WASMPortfolioWebsite\\WASMPortfolioWebsite\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\WASMPortfolioWebsite\\WASMPortfolioWebsite\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\WASMPortfolioWebsite\\WASMPortfolioWebsite\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\WASMPortfolioWebsite\\WASMPortfolioWebsite\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\WASMPortfolioWebsite\\WASMPortfolioWebsite\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\WASMPortfolioWebsite\\WASMPortfolioWebsite\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.WASMPortfolioWebsite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.WASMPortfolioWebsite.props",
+      "PackagePath": "build\\WASMPortfolioWebsite.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WASMPortfolioWebsite.props",
+      "PackagePath": "buildMultiTargeting\\WASMPortfolioWebsite.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.WASMPortfolioWebsite.props",
+      "PackagePath": "buildTransitive\\WASMPortfolioWebsite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

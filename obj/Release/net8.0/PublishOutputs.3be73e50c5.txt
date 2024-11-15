@@ -1,0 +1,1 @@
+C:\Users\vnass\Desktop\Projects\WASMPortfolioWebsite\WASMPortfolioWebsite\obj\Release\net8.0\browser-wasm\PubTmp\Out\web.config
